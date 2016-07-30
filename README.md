@@ -2,7 +2,7 @@
 
 **Pret** is a simple human language translation package for [Node.js](https://nodejs.org).
 
-It can be used either as a translation module in any Node.js program or as a standalone command line translation tool. It supports not only single word translation but also butch mode which provides word by word translation. For now it uses [Collins Cobuild](http://www.collins.co.uk/product/9780007580583/Collins+COBUILD+Advanced+Learner%E2%80%99s+Dictionary+%5BEighth+edition%5D) explanatory dictionary which of course not translation dictionary, therefore, Pret returns word explanation. Other dsl dictionaries can be added manually.
+It can be used either as a translation module in any Node.js program or as a standalone command line translation tool. It supports not only single word translation but also batch mode which provides word by word translation. For now it uses [Collins Cobuild](http://www.collins.co.uk/product/9780007580583/Collins+COBUILD+Advanced+Learner%E2%80%99s+Dictionary+%5BEighth+edition%5D) explanatory dictionary which of course not translation dictionary, therefore, Pret returns word explanation. Other dsl dictionaries can be added manually.
 
 ## Usage
 ### Single word mode
