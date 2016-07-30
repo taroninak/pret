@@ -1,0 +1,47 @@
+{
+  "name": "pret",
+  "version": "0.0.1",
+  "description": "Simple translation package for Node.js",
+  "main": "index.js",
+  "keywords": [
+    "translate",
+    "interpret",
+    "dictionary",
+    "vocabulary",
+    "translation",
+    "interpretation",
+    "thesaurus",
+    "language",
+    "english",
+    "explanatory",
+    "collinscobuild",
+    "collins"
+  ],
+  "author": "Taron Petrosyan <tgtaron@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taronpa/pret.git"
+  },
+  "homepage": "https://github.com/taronpa/pret/wiki",
+  "bugs": {
+    "url": "https://github.com/taronpa/pret/issues",
+    "email": "tgtaron@gmail.com"
+  },
+  "bin": {
+    "pret": "bin/pret.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "spellchecker": "^3.3.1",
+    "wordwrap": "^1.0.0"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "lib/",
+    "bin/",
+    "dict/"
+  ]
+}
